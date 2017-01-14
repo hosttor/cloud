@@ -1,0 +1,13 @@
+// git quick guide
+
+//config username
+git config --global user.name "hosttor"
+
+//config email
+git config --global user.email "partners@hosttor.com"
+
+//quick command
+git init
+git commit -m "Commit Message"
+git remote add origin https://github.com/hosttor/git-cheatsheet.git
+git push -u origin master
